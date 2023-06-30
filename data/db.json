@@ -1,0 +1,129 @@
+ {
+   "products": [
+    {
+      "id": 1,
+      "Image": "https://i.postimg.cc/DzQsvCFR/5298339-06-1.jpg",
+      "Price":949.00,
+      "name": "hoody",
+      "desc":" Nba Panelled Baggy Hoodie",
+      "type":"M"
+      
+      
+    },
+    {
+      "id": 2,
+      "Image": "https://i.postimg.cc/7h4D960C/5298518-02-2.jpg",
+      "Price": 499.00,
+      "name": "hoody",
+      "desc":"Unified Oversized Hoodie",
+      "type":"M"
+
+    },
+    {
+      "id": 3,
+      "Image":"https://i.postimg.cc/P53GDNPf/5290151-03-2.jpg",
+      "Price": 349.00,
+      "name": " hoody",
+      "desc":"Basic hoody",
+      "type":"M"
+      
+    },
+    {
+     "id": 4,
+      "Image": "https://i.postimg.cc/0NbT0xwY/5296811-02-2.jpg",
+      "Price": 250.00,
+      "name": "hoody",
+      "desc":"A soft fabric blend and stay-put ribbed hem and cuffs provide reliable comfort.",
+      "type":"G"
+      
+    },
+    {
+      "id": 5,
+      "Image": "https://i.postimg.cc/tgwLrf3L/5297425-14-2.jpg ",
+      "Price": 499.00,
+      "name": "hoody",
+      "desc":"Oversized Graphic Hoodie",
+      "type":"M"
+    },
+    {
+      "id": 6,
+      "Image": "https://i.postimg.cc/xdjfDq4L/5298285-05-2.jpg      ",
+      "Price": 749.00,
+      "name": "hoody",
+      "desc":"Music Merch Baggy Hoodie",
+      "type":"M"
+    },
+    {
+      "id": 7,
+      "Image": "https://i.postimg.cc/wjQqGD06/5298518-01-2.jpg      ",
+      "Price": 349.00,
+      "name": "hoody",
+      "desc":"soft",
+      "type":"M"
+    },
+    {
+      "id": 8,
+      "Image": "https://i.postimg.cc/7h4D960C/5298518-02-2.jpg      ",
+      "Price": 150.00,
+      "name": "hoody",
+      "desc":"comfy",
+      "type":"M"
+    },
+    {
+      "id": 9,
+      "Image": "https://i.postimg.cc/1XKSjQrv/5298518-03-2.jpg",
+      "Price": 299.00,
+      "name": "hoody",
+      "desc":"soft touch",
+      "type":"M"
+    },
+    {
+      "id": 10,
+      "Image": "https://i.postimg.cc/JhPHkfXC/5297683-74-2.jpg",
+      "Price": 199.00,
+      "name": "hoody",
+      "desc":"it way comfy",
+      "type":"G"
+    },
+    {
+      "id": 11,
+      "Image": "https://i.postimg.cc/c1VhC3ZM/5297683-75-2.jpg      ",
+      "Price": 499.00,
+      "name": "hoody",
+      "desc":"comfy",
+      "type":"B"
+    },
+    {
+      "id": 12,
+      "Image": "https://i.postimg.cc/3wKDW8dZ/5298151-14-2.jpg      ",
+      "Price": 449.00,
+      "name": "hoody",
+      "desc":"nice and soft",
+      "type":"W"
+    },
+    {
+     " id": 13,
+      "Image": "https://i.postimg.cc/CK7By3M6/5298495-01-2.jpg",
+      "Price": 349.00,
+      "name": "hoody",
+      "desc":"soft",
+      "type":"B"
+    },
+    {
+      "id": 14,
+      "Image": "https://i.postimg.cc/NFqyqm2p/5297836-14-2.jpg",
+      "Price": 699.00,
+      "name": "hoody",
+      "desc":"soft touch",
+      "type":"G"
+    },
+    {
+      "id": 15,
+      "Image": "https://i.postimg.cc/BZmWz4W1/5297445-61-2.jpg",
+      "Price": 599.00,
+      "name": "hoody",
+      "desc":"comfy hoody",
+      "type":"G"
+    }
+  ]
+}
